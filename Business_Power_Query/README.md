@@ -1,5 +1,6 @@
 # Business Intelligence Case Study: AfriRetail Ltd Data Standardization
 **Course:** DSA3050A - Power Query Lab   
+**Power BI** https://app.powerbi.com/groups/me/reports/9b923bd1-b20e-4056-83e2-e7f9477072c6/3eeb91cc743f330b7a4c?experience=power-bi
 
 ## 1. Project Overview
 AfriRetail Ltd, a mid-sized retailer in East Africa, faced significant challenges with data integrity. Sales reports were inconsistent with accounting records due to non-standard reporting templates and "dirty" raw data. This project involved building a robust, automated ETL (Extract, Transform, Load) pipeline using **Power Query** to transform raw Excel files into an analysis-ready Star Schema.
@@ -30,7 +31,7 @@ The following steps were taken to ensure the data is "Analysis-Ready":
 * **Load Control:** Only finalized, cleaned tables are loaded into the data model; staging and audit queries are set to "Do Not Load" to optimize performance.
 
 ## 5. Submission Checklist
-* [ ] **DSA3050A_PowerQuery_Lab.pbix** (Power BI File)
+* [ ] **DSA3050A_PowerQuery_Lab.pbix** (Power BI link)
 * [ ] **Screenshots Folder** (7 Required steps)
 * [ ] **README.md** (Project Documentation)
 
