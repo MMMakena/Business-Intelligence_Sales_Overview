@@ -60,4 +60,7 @@ The HR department needs to identify key drivers of employee attrition and develo
 This Power BI solution successfully identifies attrition drivers and provides actionable recommendations, enabling the HR team to reduce turnover and improve employee engagement.
 
 ## Repository Link
-[GitHub Repository URL]
+https://github.com/MMMakena/Business-Intelligence_Sales_Overview/tree/main/Final%20Exam
+
+## Power BI Dashboard Link
+https://app.powerbi.com/links/VahHaNFVvA?ctid=16d83ee6-254a-469d-a6cc-54e2ca2313e7&pbi_source=linkShare&bookmarkGuid=37de6fd5-8687-47f9-9571-f55dfc86ae2b
